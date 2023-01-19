@@ -33,7 +33,7 @@ Browse to End Users osTicket URL:
 </p> 
 
 Open a New Ticket
-- Enter the required information & take note of the Help Topic "General Inquiry"
+- Enter the required information
 
 <p>
 <img src="https://i.imgur.com/jxNuFf7.png" height="40%" width="40%" alt=""/>
@@ -55,19 +55,22 @@ Select an Open Ticket
 
 Observe & Address the Ticket
 - Adjust the ticket description accordingly to the situation
-- Priority: Emergency
-- Department: System Administrators
-- SLA Plan: SEV-A
-- Assign the ticket to an Admin agent
+   - Priority: Emergency
+   - Department: System Administrators
+   - SLA Plan: SEV-A
+   - Assign the ticket to an Admin agent
 
 <p>
 <img src="https://i.imgur.com/5HaVD7a.png" height="40%" width="40%" alt=""/>
 </p> 
 
 Resolve the Ticket
-- 
+- Use the messaging system to coordinate with System Administrators
+- Change the Ticket Status to "Resolved"
+- Note that this ticket has been moved to your "Closed" tickets
 
 <p>
 <img src="https://i.imgur.com/8QEjLmL.png" height="40%" width="40%" alt=""/>
 </p> 
 
+Feel free to work any other tickets you have created and adjust the settings as you wish!
