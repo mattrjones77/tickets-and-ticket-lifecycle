@@ -29,28 +29,28 @@ Browse to End Users osTicket URL:
 - Select "Open a New Ticket"
 
 <p>
-<img src="https://i.imgur.com/9vdRvVY.png" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/9vdRvVY.png" height="80%" width="40%" alt=""/>
 </p> 
 
 Open a New Ticket
 - Enter the required information
 
 <p>
-<img src="https://i.imgur.com/jxNuFf7.png" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/jxNuFf7.png" height="80%" width="80%" alt=""/>
 </p> 
 
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
 - Login with admin account
 
 <p>
-<img src="https://i.imgur.com/CWtF6Uz.png" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/CWtF6Uz.png" height="80%" width="80%" alt=""/>
 </p> 
 
 Select an Open Ticket
 - "entire mobile banking..."
 
 <p>
-<img src="https://i.imgur.com/W3Nisg9.png" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/W3Nisg9.png" height="80%" width="80%" alt=""/>
 </p> 
 
 Observe & Address the Ticket
@@ -61,7 +61,7 @@ Observe & Address the Ticket
    - Assign the ticket to an Admin agent
 
 <p>
-<img src="https://i.imgur.com/5HaVD7a.png" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/5HaVD7a.png" height="80%" width="80%" alt=""/>
 </p> 
 
 Resolve the Ticket
@@ -70,7 +70,7 @@ Resolve the Ticket
 - Note that this ticket has been moved to your "Closed" tickets
 
 <p>
-<img src="https://i.imgur.com/8QEjLmL.png" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/8QEjLmL.png" height="80%" width="80%" alt=""/>
 </p> 
 
 Feel free to work any other tickets you have created and adjust the settings as you wish!
