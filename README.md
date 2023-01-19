@@ -29,7 +29,7 @@ Browse to End Users osTicket URL:
 - Select "Open a New Ticket"
 
 <p>
-<img src="https://i.imgur.com/9vdRvVY.png" height="80%" width="40%" alt=""/>
+<img src="https://i.imgur.com/9vdRvVY.png" height="80%" width="80%" alt=""/>
 </p> 
 
 Open a New Ticket
