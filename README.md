@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Tickets and Ticket Lifecycle</h1>
-This tutorial outlines help desk ticket creation and execution.<br />
+This tutorial outlines help desk ticket creation and execution in the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,12 +20,54 @@ This tutorial outlines help desk ticket creation and execution.<br />
 
 - Microsoft Azure
 - Virtual Machine
-- osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- osTicket
 
-<h2>Installation Steps</h2>
+<h2>Lifecycle Stages</h2>
 
-
+Browse to End Users osTicket URL:
+- http://localhost/osTicket/
+- Select "Open a New Ticket"
 
 <p>
-<img src="x" height="40%" width="40%" alt=""/>
+<img src="https://i.imgur.com/9vdRvVY.png" height="40%" width="40%" alt=""/>
 </p> 
+
+Open a New Ticket
+- Enter the required information & take note of the Help Topic "General Inquiry"
+
+<p>
+<img src="https://i.imgur.com/jxNuFf7.png" height="40%" width="40%" alt=""/>
+</p> 
+
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+- Login with admin account
+
+<p>
+<img src="https://i.imgur.com/CWtF6Uz.png" height="40%" width="40%" alt=""/>
+</p> 
+
+Select an Open Ticket
+- "entire mobile banking..."
+
+<p>
+<img src="https://i.imgur.com/W3Nisg9.png" height="40%" width="40%" alt=""/>
+</p> 
+
+Observe & Address the Ticket
+- Adjust the ticket description accordingly to the situation
+- Priority: Emergency
+- Department: System Administrators
+- SLA Plan: SEV-A
+- Assign the ticket to an Admin agent
+
+<p>
+<img src="https://i.imgur.com/5HaVD7a.png" height="40%" width="40%" alt=""/>
+</p> 
+
+Resolve the Ticket
+- 
+
+<p>
+<img src="https://i.imgur.com/8QEjLmL.png" height="40%" width="40%" alt=""/>
+</p> 
+
